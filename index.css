@@ -1,0 +1,33 @@
+header {
+  background-color: blue;
+  display: inline-block;
+  width: 100%;
+}
+
+#headerPass {
+  float: right;
+}
+
+
+#demo {
+	color: red;
+}
+
+
+#main {
+  display: block;
+  background-color: orange;
+  height: 1000px;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.main {
+  display: none;
+/*  background-color: orange;
+  height: 1000px;
+  width: 50%;
+  margin: auto;*/
+
+}
